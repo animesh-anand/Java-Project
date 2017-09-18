@@ -6,9 +6,9 @@ public class Hello_World {
 		// TODO Auto-generated method stub
 		
 		Scanner input = new Scanner(System.in);
-		System.out.println("Enter your name");
+		System.out.print("Enter your name:");
 		String name = input.nextLine();
-		System.out.printf("Hello %s \n", name);
+		System.out.printf("Hello %s !! \n", name);
 
 	}
 
